@@ -16,7 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self test5];
+    [self test6];
+}
+
+- (void)test6{
+    
 }
 
 - (void)test5{
